@@ -1,0 +1,29 @@
+{
+  "title": "Decision-Aware and Explainable Deep Learning for Leukemic Blast Detection (code)",
+  "upload_type": "software",
+  "access_right": "open",
+  "description": "<p>Source code and reproducibility materials accompanying the article: A Decision-aware and Explainable Deep Learning System for Leukemic Blast Detection. <em>International Journal of Intelligent Engineering and Systems</em>, 2026. https://doi.org/10.22266/ijies2026.0831.04</p><p>If you use this software, please cite the article.</p>",
+  "creators": [
+    {
+      "name": "Al-Naffakh, Hussein Ali Hussein",
+      "affiliation": "University of Alkafeel, Najaf, Iraq",
+      "orcid": "0000-0002-4775-8818"
+    },
+    {
+      "name": "Abedi, Hussein Fadhil"
+    },
+    {
+      "name": "Abidi, Fadhil A."
+    },
+    {
+      "name": "Al-Qaisy, Shams A."
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.22266/ijies2026.0831.04",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    }
+  ]
+}
