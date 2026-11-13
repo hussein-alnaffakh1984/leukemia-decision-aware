@@ -1,5 +1,7 @@
 # Decision-Aware and Explainable Deep Learning for Leukemic Blast Detection
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24208756.svg)](https://doi.org/10.5281/zenodo.24208756)
+
 Reference implementation for the paper *"A Decision-Aware and Explainable Deep
 Learning System for Leukemic Blast Detection"*. The notebook reproduces every
 number reported in the manuscript from real model outputs — nothing is hardcoded.
