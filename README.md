@@ -92,3 +92,7 @@ If you use this code or its results, please cite the published paper:
   doi     = {10.22266/ijies2026.0831.04}
 }
 ```
+
+## License
+
+Released under the MIT License (see `LICENSE`).
