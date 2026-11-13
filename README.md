@@ -71,3 +71,22 @@ The pipeline (`CANCER_clean.ipynb`) runs end-to-end:
 
 C-NMC 2019 (B-ALL blast vs normal leukocytes). Obtain it from the official source
 and place it as described above; the dataset is not redistributed here.
+
+## Citation
+
+If you use this code or its results, please cite the published paper:
+
+> Al-Naffakh, H.A.H., Abedi, H.F., Abidi, F.A., & Al-Qaisy, S.A. (2026). A Decision-aware and Explainable Deep Learning System for Leukemic Blast Detection. *International Journal of Intelligent Engineering and Systems*, 19(8), 68–82. https://doi.org/10.22266/ijies2026.0831.04
+
+```bibtex
+@article{AlNaffakh2026Leukemia,
+  title   = {A Decision-aware and Explainable Deep Learning System for Leukemic Blast Detection},
+  author  = {Al-Naffakh, Hussein Ali Hussein and Abedi, Hussein Fadhil and Abidi, Fadhil A. and Al-Qaisy, Shams A.},
+  journal = {International Journal of Intelligent Engineering and Systems},
+  year    = {2026},
+  volume  = {19},
+  number  = {8},
+  pages   = {68--82},
+  doi     = {10.22266/ijies2026.0831.04}
+}
+```
